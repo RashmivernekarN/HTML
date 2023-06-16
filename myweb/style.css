@@ -1,0 +1,38 @@
+ul.nav{
+			list-style:none;
+			display:inline-block;
+			background:maroon;
+			padding:20px;
+			width:100%;
+		}
+		ul.nav li{
+			display:inline;
+		}
+		ul.nav li a{
+			text-decoration:none;
+			padding:0 10px;
+			color:white;
+			text-transform:uppercase;
+			transition: all .6s;
+		}
+		ul.nav li a:hover{
+			background:yellow;
+			color:black;
+		}
+		section{
+			padding:50px 0;
+			border:1px solid gray;
+			text-align:center;
+		}
+		label,input{
+			margin:auto;
+			display:block;
+		}
+		input{
+			width:300px;
+			padding:10px;
+			border-radius: 5px;
+		}
+		button{
+			margin:10px 0;
+		}

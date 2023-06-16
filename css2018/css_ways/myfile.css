@@ -1,0 +1,21 @@
+p
+{
+     font-size:10px;
+     color:red;
+}
+h1,h2
+{
+    text-align:center;
+    background-color:yellow;
+     color:blue;
+}
+.abc
+{
+   font-family:Arial Rounded MT;
+   font-size:20px;
+}
+#a1
+{
+    color:green;
+    text-align:right;
+}
